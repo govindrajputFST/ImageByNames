@@ -1,0 +1,17 @@
+body{
+    /* background-image: conic-gradient(rgb(227, 35, 35) 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg); */
+    background-color:rgb(203, 242, 210);
+  border-radius: 50%;
+
+}
+.img1{
+    box-shadow: 3px 3px 6px blue;
+}
+.space{
+    margin: 20%;
+    margin-left: 40%;
+    box-shadow: 2px 4px 6px rgb(1, 162, 255) ,-2px -3px 5px rgb(3, 155, 250);
+    
+    width: 37vh;
+    text-align: center;
+}
